@@ -1,6 +1,6 @@
 if (true) {
   switch (expression) {
-    case n=1:
+    case n=3:
 
       break;
     default:
